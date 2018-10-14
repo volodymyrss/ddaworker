@@ -1,0 +1,3 @@
+[submodule "ddalog"]
+	path = ddalog
+	url = https://github.com/volodymyrss/ddalog.git
